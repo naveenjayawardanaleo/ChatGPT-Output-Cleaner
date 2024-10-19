@@ -18,7 +18,7 @@ def clean_text(text):
 
 st.set_page_config(layout="wide")
 
-st.title('ChatGPT Output Cleaner by WDSL (Structure Preserving)')
+st.title('ChatGPT Output Cleaner  App by WDSL (Structure Preserving)')
 
 st.write('This app removes unnecessary star marks, Markdown headers, and unwanted styles from ChatGPT output while preserving the text structure.')
 
